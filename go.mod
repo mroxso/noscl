@@ -1,4 +1,4 @@
-module github.com/fiatjaf/noscl
+module github.com/mroxso/noscl
 
 go 1.18
 
